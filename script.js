@@ -3,7 +3,7 @@ const btnNo = document.getElementById('btnno');
 
 
 btnYes.addEventListener('click', () => {
-    window.location.href = './LUTTMATS.htlm';
+    window.location.href = './LUTTMATS.html';
 });
 
 
