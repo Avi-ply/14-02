@@ -1,0 +1,31 @@
+body{
+    background-color: #ffebee;
+}
+h1{
+    text-align: center;
+    color: #d3012c ;
+    font-weight: 800;
+    font-style: normal;
+    font-size: 4rem;
+
+}
+p{
+    text-align: center;
+    color: #f25781;
+    font-weight: 400;
+    font-style: normal;
+    font-family: 'Lilita One', cursive;
+    font-size: 1.5rem;
+      
+}
+.buttons {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+.btn {
+    padding: 10px 20px;
+    font-size: 1em;
+    cursor: pointer;
+}
